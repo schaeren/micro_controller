@@ -1,4 +1,4 @@
-# iot-arduino-rtos-task-01
+# arduino_avr_rtosTask01
 
 Use freeRTOS tasks with Arduino.
 
