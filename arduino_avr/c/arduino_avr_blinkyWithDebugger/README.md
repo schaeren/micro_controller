@@ -1,4 +1,4 @@
-# iot-arduino-blinky2WithDebugger
+# iot-arduino-blinkyWithDebugger
 
 Introduction to Visual Studio Code / PlatformIO debugger with Arduino UNO. 
 
