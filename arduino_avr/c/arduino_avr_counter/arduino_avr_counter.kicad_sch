@@ -5,7 +5,7 @@
   (paper "A5")
 
   (title_block
-    (title "iot-arduino-counter1")
+    (title "arduino_avr_counter")
     (date "2022-03-08")
     (rev "1")
     (comment 1 "See also: schaerens.ch/iot-arduino-counter1")
@@ -627,7 +627,7 @@
     (uuid fe3e51d9-38ea-450f-a751-6418e5949c55)
   )
 
-  (text "iot-arduino-counter1" (at 77.47 25.4 0)
+  (text "arduino_avr_counter" (at 77.47 25.4 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid e9feb70e-756a-4345-bbe4-7560482bb631)
   )
