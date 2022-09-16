@@ -1,4 +1,4 @@
-# iot-arduino-rtos-mutex-01
+# arduino_avr_rtosMutex
 
 Use freeRTOS mutex with Arduino.
 
