@@ -1,4 +1,4 @@
-# iot-arduino-rtos-task-02
+# arduino_avr_rtosTask02
 
 Use freeRTOS parametrized tasks with Arduino.
 
