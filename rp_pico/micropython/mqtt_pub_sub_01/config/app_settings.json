@@ -1,0 +1,17 @@
+{
+    "mqtt":
+    {
+        "host": "raspiServer",
+        "port": 8883,
+        "use_clean_session": true,
+        "use_ssl": true,
+        "client_cert_file_path": "/secret/device001_client_crt.der",
+        "private_key_file_path": "/secret/device001_client_key.der",
+        "client_id": "raspi-picoW-01"
+    },
+    "ntp":
+    {
+        "host": "time.google.com",
+        "interval_secondes": 3600
+    }
+}

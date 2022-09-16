@@ -1,0 +1,41 @@
+{
+    "console_logger":
+    {
+        "enabled": true,
+        "default_log_level": "DEBUG",
+        "log_levels_for_modules":
+        {
+            "default": "WARNING",
+            "pico_mqtt_main": "DEBUG",
+            "status_led": "WARNING",
+            "pico_lib.wifi": "WARNING",
+            "pico_lib.udp_client": "WARNING",
+            "pico_lib.networking": "WARNING",
+            "pico_lib.mqtt_as_enhanced": "WARNING",
+            "pico_lib.ntp_client": "DEBUG",
+            "pico_lib.settings_base": "WARNING",
+            "pico_lib.button_debounced": "WARNING"
+        }
+    },
+    "file_logger":
+    {
+        "enabled": true,
+        "dirname": "log",
+        "max_bytes": 25000,
+        "backup_count": 3,
+        "default_log_level": "WARNING",
+        "log_levels_for_modules":
+        {
+            "default": "WARNINGS",
+            "pico_mqtt_main": "DEBUG",
+            "status_led": "WARNING",
+            "pico_lib.wifi": "WARNING",
+            "pico_lib.udp_client": "WARNING",
+            "pico_lib.networking": "WARNING",
+            "pico_lib.mqtt_as_enhanced": "WARNING",
+            "pico_lib.ntp_client": "DEBUG",
+            "pico_lib.settings_base": "WARNING",
+            "pico_lib.button_debounced": "WARNING"
+        }
+    }
+}
