@@ -1,4 +1,4 @@
-# iot-arduino-rtos-queue-01
+# arduino_avr_rtosQueue
 
 Use freeRTOS queue with Arduino.
 
