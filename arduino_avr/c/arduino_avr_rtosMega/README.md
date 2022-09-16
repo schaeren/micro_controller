@@ -1,4 +1,4 @@
-# iot-arduinoMega-rtos-01
+# arduino_arv_rtosMega
 Introduction to freeRTOS (real-time kernel) used with Arduino Mega 2560. 
 
 Target system: Arduino Mega 2560
