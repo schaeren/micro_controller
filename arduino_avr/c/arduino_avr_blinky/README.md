@@ -1,4 +1,4 @@
-# iot-arduino-blinky
+# arduino_avr_blinky
 
 Target system: Arduino Uno
 
